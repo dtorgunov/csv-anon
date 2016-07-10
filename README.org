@@ -1,0 +1,3 @@
+* csv-anon
+
+This is a very simple utility that can be used to anonymise the data contained in a csv file. Assuming the first line in the file shows labels for columns, it replaces all values in a given column with a unique identifier per value, and generated a mapping of original-to-coded values.
